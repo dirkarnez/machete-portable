@@ -16,7 +16,6 @@ if not exist %USERPROFILE% (
 
 if not exist %APPDATA% (
 	mkdir %APPDATA%
-	mkdir %APPDATA%\MySQL
 )
 
 if not exist %LOCALAPPDATA% (
